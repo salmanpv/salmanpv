@@ -1,4 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hi, I'm Salmanul Faris. </span> </h1>
+
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;" height="40"/>
 
 - 👋 Hi, I’m @salmanpv
