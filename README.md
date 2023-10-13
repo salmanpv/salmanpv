@@ -4,10 +4,10 @@
 
 ### Status : 
 - 💼 I'm pursuing <strong>BTech</strong> in <strong>ECE</strong>.
-- 👀 I’m interested in <strong>Web, Cloud, IoT</strong> and <strong>DS</strong>
-- 🌱 I’m currently learning <strong>Python for ML</strong>
-- 🔍 I’m looking to collaborate on <strong>Scientific Computing</strong> projects
-- 📫 How to reach me imsalmanfaris747@gmail.com
+- 👀 I’m interested in <strong>Web, Cloud, IoT</strong> and <strong>DS</strong>.
+- 🌱 I’m currently learning <strong>Python for ML</strong>.
+- 🔍 I’m looking to collaborate on <strong>Scientific Computing</strong> projects.
+- 📫 How to reach me imsalmanfaris747@gmail.com.
 
 ### Languages and Tools :  
 
