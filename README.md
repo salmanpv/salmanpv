@@ -19,6 +19,11 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+<p align="center">
+<img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=tjf801&show_icons=true&locale=en&layout=compact&hide_rank=true">
+<img alt="Most used languages" height=200 src="https://github-readme-stats-gamma-smoky.vercel.app/api/top-langs?username=tjf801&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.9&langs_count=6&exclude_repo=snake">
+</p>
+
 
 <!---
 salmanpv/salmanpv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
