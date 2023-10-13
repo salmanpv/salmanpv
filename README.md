@@ -7,7 +7,7 @@
 - 👀 I’m interested in <strong>Web, Cloud, IoT</strong> and <strong>DS</strong>
 - 🌱 I’m currently learning <strong>Python for ML</strong>
 - 🔍 I’m looking to collaborate on <strong>Scientific Computing</strong> projects
-- 📫 How to reach me imsalmanfaris747@gmail.com
+- 📫 How to reach me sfpv180@gmail.com
 
 ### Languages and Tools :  
 
@@ -19,9 +19,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 <hr>
-<p align="center">
+<p>
 <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=salmanpv&show_icons=true&locale=en&layout=compact&hide_rank=true">
-<img alt="Most used languages" height=200 src="https://github-readme-stats-gamma-smoky.vercel.app/api/top-langs?username=salmanpv&show_icons=true&locale=en&layout=compact&size_weight=0.1&count_weight=0.9&langs_count=6&exclude_repo=snake">
 </p>
 
 
