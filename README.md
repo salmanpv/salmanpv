@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;" height="40"/>
 
-
 ### Status : 
 - 💼 I'm pursuing <strong>BTech</strong> in <strong>ECE</strong>.
 - 👀 I’m interested in <strong>Web, Cloud, IoT</strong> and <strong>DS</strong>
