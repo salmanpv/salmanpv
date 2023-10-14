@@ -17,9 +17,7 @@
 
 ### Technologies
 
-![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-fff?&logo=git&logoColor=000)
-![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux&logoColor=000)
+![VSCode](https://img.shields.io/badge/-VSCode-fff?&logo=Android&logoColor=000)
 <hr>
 <p>
 <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=salmanpv&show_icons=true&locale=en&layout=compact&hide_rank=true">
