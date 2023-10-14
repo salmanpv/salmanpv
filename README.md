@@ -15,9 +15,6 @@
 [![C](https://img.shields.io/badge/-C-fff?&logo=C&logoColor=000)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=C)
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=000)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Python)
 
-### Technologies
-
-![VSCode](https://img.shields.io/badge/-VSCode-fff?&logo=Android&logoColor=000)
 <hr>
 <p>
 <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=salmanpv&show_icons=true&locale=en&layout=compact&hide_rank=true">
