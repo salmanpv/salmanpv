@@ -15,14 +15,11 @@
 [![C](https://img.shields.io/badge/-C-fff?&logo=C&logoColor=000)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=C)
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=000)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Python)
 
-### Languages and Tools :  
+### Technologies
 
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="CPP" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Arduino" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=000)
+![Git](https://img.shields.io/badge/-Git-fff?&logo=git&logoColor=000)
+![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux&logoColor=000)
 <hr>
 <p>
 <img alt="Github Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=salmanpv&show_icons=true&locale=en&layout=compact&hide_rank=true">
