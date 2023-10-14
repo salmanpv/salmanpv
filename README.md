@@ -5,11 +5,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;" height="40"/>
 
 ### Status : 
-- 💼 I'm pursuing <strong>BTech</strong> in <strong>ECE</strong>
-- 👀 I’m interested in <strong>Web, Cloud, IoT</strong> and <strong>DS</strong>
-- 🌱 I’m currently learning <strong>Python for ML</strong>
-- 🔍 I’m looking to collaborate on <strong>Scientific Computing</strong> mini projects
+- 💼 I'm currently pursuing <strong>BTech</strong> in <strong>ECE</strong>
+- 👀 I’m interested in <strong>Web, IoT</strong> and <strong>DS</strong>
 - 📫 How to reach me sfpv180@gmail.com
+
+### Languages
+
+[![C++](https://img.shields.io/badge/-C++-fff?&logo=C&logoColor=000)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=C++)
+[![C](https://img.shields.io/badge/-C-fff?&logo=C&logoColor=000)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=C)
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=000)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Python)
 
 ### Languages and Tools :  
 
