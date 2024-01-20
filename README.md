@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanpv&label=Profile%20Views&color=0e75b6&style=flat" alt="salmanpv" /> </p>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hi, I'm Salmanul Faris. </span> </h1>
+<h1> Hi, I'm Salmanul Faris. </span> </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;" height="40"/>
 
